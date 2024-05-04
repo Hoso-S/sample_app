@@ -14,4 +14,8 @@ class StaticPagesController < ApplicationController
   def about
     # => app/views/static_pags/about.html.erb
   end
+
+  def contact
+    # => app/views/static_pags/contact.html.erb
+  end
 end
